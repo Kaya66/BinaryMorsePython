@@ -4,7 +4,7 @@ Binary More Encdoe/Decode
 
 
 
-#Project Explination
+<h2>Project Explination</h2>
 
 
 in morse, you can write out any standard letters and numbers with a max of 5 dots or dashes.
