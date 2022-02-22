@@ -1,6 +1,6 @@
 ######################################################
 # Binary Morse Encode/Decode                         #
-# Author: OpSecCat                                   #
+# Author: Kaya                                       #
 # Version 1.0                                        #
 # Licenses GPLv3                                     #
 ######################################################
