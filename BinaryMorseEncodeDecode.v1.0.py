@@ -2,7 +2,7 @@
 # Binary Morse Encode/Decode                         #
 # Author: Kaya                                       #
 # Version 1.0                                        #
-# Licenses GPLv3                                     #
+# Licenses GPLv2                                     #
 ######################################################
 def main():
     #alphabet defines what characters are addrssable
