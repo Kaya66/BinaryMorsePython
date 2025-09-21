@@ -1,7 +1,8 @@
 # Binary-Morse-Converter
 
 Binary More Encode/Decode
-
+Please ignore this. 
+This code was written first year of college. should not be used at all for examples or anything.
 
 
 <h2>Project Explination</h2>
