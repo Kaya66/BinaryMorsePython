@@ -1,6 +1,6 @@
 # Binary-Morse-Converter
 
-Binary More Encdoe/Decode
+Binary More Encode/Decode
 
 
 
